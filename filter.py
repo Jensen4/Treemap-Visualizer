@@ -1,5 +1,3 @@
-import time
-import datetime
 from call import Call
 from customer import Customer
 
